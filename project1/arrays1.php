@@ -1,4 +1,5 @@
 <?php
+/* Сreate two arrays and output the first array with the least number of negative elements*/
 if($_GET["n"]<=0) echo "Введено некорректное кол-во элементов";
 else{  
 $arr1; $arr2; 

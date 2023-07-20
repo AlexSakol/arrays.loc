@@ -1,4 +1,6 @@
 <?php
+/*Calculates the sum of the elements of an array located after the last negative element
+and sort them*/
 if($_GET["n"]<=0) echo "Введено некорректное кол-во элементов";
 else{  
     $arr; $arr1; $arr2; 
